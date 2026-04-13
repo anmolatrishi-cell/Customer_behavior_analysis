@@ -35,3 +35,10 @@ Extract business insights
 Built an interactive Power BI dashboard
 Visualized KPIs, trends, and customer insights
 
+📈 Results & Key Insights
+📌 Top 3 categories contributed ~60–70% of total sales
+📌 Identified peak shopping periods, improving timing strategies
+📌 Customer segmentation revealed high-value customer groups
+📌 Improved data quality by handling 100% missing/duplicate records
+📌 SQL queries enabled faster reporting and structured insights
+
